@@ -1,14 +1,12 @@
 # PhiPhi's Quantum Tuna Cans
-Code and documentation for "PhiPhi's Quantum Cans" by Yuke Ding and Mashi Zaman. Rotate a quantum can of tuna to increase the odds of feeding PhiPhi the cat, and learn a little bit about quantum mechanics along the way.
-
-https://youtu.be/1R-yiKwHAGs
+Code and documentation for "PhiPhi's Quantum Cans" by Yuke Ding and Mashi Zaman. Rotate a quantum can of tuna to increase the odds of feeding PhiPhi the cat, and learn a little bit about quantum mechanics along the way. <a href="https://youtu.be/1R-yiKwHAGs">See this video for a demo!</a>
 
 ### Introduction
 
 Welcome to the quantum world! An extraordinary place where flowers are pink and blue and red and yellow at the same time before you see them, and the weather is both sunny and rainy before you look out the window. What’s inside this tuna can for kittens? Fish? A bone? Both, of course! 
-
-<img src="https://user-images.githubusercontent.com/43973044/208785328-92c7f816-badf-490a-8dfa-683d1d978256.png" alt="PhiPhi the cat." width="300px"  style="display: block; margin-left: auto; margin-right: auto;">
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/43973044/208785328-92c7f816-badf-490a-8dfa-683d1d978256.png" alt="PhiPhi the cat." width="300px">
+</p>
 This is PhiPhi, a kitten eager for some delicious canned tuna. But as this is the quantum world, there’s always a chance of there being no trace of fresh tuna inside. However, you (yes, you!) could become PhiPhi’s favorite human and give them all the tuna they could ever want today!  
 
 Having lived in the quantum world for quite a while, PhiPhi can tell the probability of tuna inside the quantum can. PhiPhi also knows that you can change this probability by rotating the can, and that there is even a special direction that holds the greatest probability of getting tuna!  
