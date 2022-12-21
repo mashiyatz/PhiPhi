@@ -16,6 +16,11 @@ When you’re ready, press the can to start! Rotate the can while watching how P
 If you want to learn more about all the quantum behind the scenes, long press the tuna can. PhiPhi will share a bit about what they’ve learned from the quantum world!
 
 ### Technical Description
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/43973044/208803027-93ed0f82-8ddc-475c-b9e0-790e0b98d5fa.jpg" alt="A tuna can with a bright orange exterior and TUNA written in blue letters. Next to it is a breadboard with an Arduino Nano IoT 33 connected to a rotary encoder.">
+</p>
+
 A tuna can attached to a rotary encoder (i.e., a button that rotates) behaves as the controller for the game. An Arduino Nano IoT 33 sends rotations and button presses from the rotary encoder to Unity3D through serial communication. A digital interface made in Unity3D responds to both button presses and rotations from the rotary encoder. Short and long button presses are used to change between different sections of the project, i.e., instructions, the game, and background information. Encoder rotations influence the probabilities of positive or negative outcomes, which are reflected through animations of the cat PhiPhi. 
 
 Instructions onscreen, presented using both animations and simple text, outline the interaction’s objective — to feed PhiPhi. They introduce the main loop of player actions using the larger tuna can-turned-button in front: a short press to start the game, followed by rotation to increase the probability of reward, and then another short press to calculate the result based on this probability.
@@ -29,3 +34,7 @@ Players who choose to explore the physics background are able to read and reread
 * Not everyone hates physics! Many players were curious about how this game has anything to do with quantum physics.
 * A good, responsive button goes a long way. Players enjoyed just rotating and pressing the tuna can, sometimes a bit too much.
 * A rotary encoder is incredibly versatile, we should consider more interactive experiences that just use a rotation and button. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/43973044/208802982-5cc95ec0-1d23-477a-96b6-970a590d4ad1.jpg" alt="The setup of PhiPhi's Quantum Tuna Cans at the 2022 ITP/IMA Winter Show, including a large display and set of speakers with the tuna can in front, on top of a table with a striped tablecloth.">
+</p>
