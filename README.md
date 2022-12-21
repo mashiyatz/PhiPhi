@@ -1,6 +1,8 @@
 # PhiPhi's Quantum Tuna Cans
 Code and documentation for "PhiPhi's Quantum Cans" by Yuke Ding and Mashi Zaman. Rotate a quantum can of tuna to increase the odds of feeding PhiPhi the cat, and learn a little bit about quantum mechanics along the way. <a href="https://youtu.be/1R-yiKwHAGs">See this video for a demo!</a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1R-yiKwHAGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Introduction
 
 Welcome to the quantum world! An extraordinary place where flowers are pink and blue and red and yellow at the same time before you see them, and the weather is both sunny and rainy before you look out the window. What’s inside this tuna can for kittens? Fish? A bone? Both, of course! 
